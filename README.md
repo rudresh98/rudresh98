@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **more frontend project**
 
-- 👨‍💻 All of my projects are available at [rudresh98.github.io](rudresh98.github.io)
+- 👨‍💻 All of my projects are available at [rudresh98](rudresh98.github.io)
 
 - 💬 Ask me about **JS,HTML,MYSQL,CSS,**
 
