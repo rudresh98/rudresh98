@@ -4,11 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudresh98&label=Profile%20views&color=0e75b6&style=flat" alt="rudresh98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oza_rudresh" target="blank"><img src="https://img.shields.io/twitter/follow/oza_rudresh?logo=twitter&style=for-the-badge" alt="oza_rudresh" /></a> </p>
- ## :trophy: Languages and Tools: :robot:
-
-<img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=react" width="50px"><img src="https://logo.letskhabar.com/img?tool=node" width="50px"><img src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"><img src="https://logo.letskhabar.com/img?tool=firebase" width="50px"><img src="https://logo.letskhabar.com/img?tool=flutter" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=php" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
-
-<img src="https://logo.letskhabar.com/img?tool=figma" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-photoshop" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-premiere-pro" width="50px"><img src="https://logo.letskhabar.com/img?tool=adobe-xd" width="50px">
 
 - 🔭 I’m currently working on **Intern Management System**
 
@@ -24,8 +19,7 @@
 
 - ⚡ Fun fact **I think i can cook.**
 
-### Blogs posts
-<img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,3 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudresh98&show_icons=true&locale=en" alt="rudresh98" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudresh98&" alt="rudresh98" /></p>
+
+Check my repo
+### Blogs posts
+<img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
