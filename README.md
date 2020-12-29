@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I think i can cook.**
 
 ### Blogs posts
-
+<img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
