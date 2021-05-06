@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Company Project**
 
-- 🌱 I’m currently learning **Angular,Typescript,Node.js**
+- 🌱 I’m currently learning **Angular,React,Typescript,Node.js**
 
 - 👯 I’m looking to collaborate on **more frontend project**
 
