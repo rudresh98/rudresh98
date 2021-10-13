@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudresh</h1>
+<h1 align="center">Hi 👋, I'm Rudresh Oza</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudresh98&label=Profile%20views&color=0e75b6&style=flat" alt="rudresh98" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Company Project**
 
-- 🌱 I’m currently learning **Angular,React,Typescript,Node.js**
+- 🌱 I’m currently learning **Angular,React,Typescript,Node.js,ArangoDB,Kafka**
 
 - 👯 I’m looking to collaborate on **more frontend project**
 
