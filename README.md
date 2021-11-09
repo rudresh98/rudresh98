@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular,React,Typescript,Node.js,ArangoDB,Kafka**
 
-- 👯 I’m looking to collaborate on **more frontend project**
+- 👯 I’m looking to collaborate on **more Web-Dev project**
 
 <!--- 👨‍💻 All of my projects are available at [rudresh98](rudresh98.github.io)-->
 
