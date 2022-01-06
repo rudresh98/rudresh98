@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Company Project**
 
-- 🌱 I’m currently learning **Angular,React,Typescript,Node.js,ArangoDB,Kafka**
+- 🌱 I’m currently learning **Angular,React,Typescript,Node.js,ArangoDB,Kafka,ArangoDB**
 
 - 👯 I’m looking to collaborate on **more Web-Dev project**
 
