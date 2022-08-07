@@ -14,7 +14,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [rudresh98](rudresh98.github.io)-->
 
-- 💬 Ask me about **JS,HTML,MYSQL,CSS,**
+- 💬 Ask me about **JS,REACTJS,ANGULAR,HTML,MYSQL,CSS,**
 
 - 📫 How to reach me **rudreshoza11@outlook.com**
 
