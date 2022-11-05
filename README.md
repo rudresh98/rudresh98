@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JS,REACTJS,ANGULAR,HTML,MYSQL,CSS,**
 
-- 📫 How to reach me ozarudresh18@gmail.com**
+- 📫 How to reach me rudresh.oza@outlook.com**
 
 - ⚡ Fun fact **I think i can cook.**
 
