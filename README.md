@@ -49,5 +49,4 @@ Check my repo
 ### Blogs posts
 
 <img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
-[![@rudreshoza's Holopin board](https://holopin.io/api/user/board?user=rudreshoza)](https://holopin.io/@rudreshoza)
 <a href="https://app.daily.dev/rudreshoza18"><img src="https://api.daily.dev/devcards/c5e2a0601c8b4a3aaeda019aae86f1e2.png?r=81h" width="400" alt="Rudresh Oza's Dev Card"/></a>
